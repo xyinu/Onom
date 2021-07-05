@@ -1,6 +1,6 @@
 # Onom
 __Modules needed__  
-1) PIL   
+1) Pillow  
 2) Pygame   
 3) noisereduce   
 4) pydub  
