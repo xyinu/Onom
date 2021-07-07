@@ -1,6 +1,6 @@
 # Onom
 __SOFTWARE__  
-Our software is in the "downloads" folder. To use the software, please install the 4 modules below and watch the tutorial video attached.
+Our software is in the "downloads" folder. To use the software, please install the 4 modules below and watch the tutorial video "ONOM Tutorial" attached.
 *Modules needed to be installed*  
 1) Pillow - pip install pillow  
 2) Pygame - pip install pygame    
