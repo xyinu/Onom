@@ -1,12 +1,11 @@
 # Onom
-__Modules needed to be installed__  
+__SOFTWARE__  
+Our software is in the "downloads" folder. To use the software, please install the 4 modules below and watch the tutorial video attached.
+*Modules needed to be installed*  
 1) Pillow - pip install pillow  
 2) Pygame - pip install pygame    
 3) noisereduce - pip install noisereduce  
-4) pydub - pip install pydub  
-
-__SOFTWARE__  
-Our software is in the "downloads" folder. To use the software, please install the 4 modules above and watch the tutorial video attached.
+4) pydub - pip install pydub   
 
 __SPECTRAL SUBTRACTION__  
 There is a folder named “Spectral Subtraction”. Inside the folder, there are two audio samples and one Jupyter Notebook. The Jupyter Notebook allows you to take a look at the code and includes audio samples. As the folder includes the two audio samples needed, feel free to rerun the notebook too. Please make sure that the two audio samples and the notebook are in the same folder.
