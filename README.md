@@ -1,9 +1,9 @@
 # Onom
-__Modules needed__  
-1) Pillow  
-2) Pygame   
-3) noisereduce   
-4) pydub  
+__Modules needed to be installed__  
+1) Pillow - pip install pillow  
+2) Pygame - pip install pygame    
+3) noisereduce - pip install noisereduce  
+4) pydub - pip install pydub  
 
 __SOFTWARE__  
 Our software is in the "downloads" folder. To use the software, please watch the tutorial video attached.
